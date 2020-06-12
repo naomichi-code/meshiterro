@@ -1,3 +1,8 @@
+アプリケーションを完成させよう2
+
+7章【部分テンプレートを使おう】開始
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
